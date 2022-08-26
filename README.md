@@ -1,5 +1,5 @@
 
-# iSPACE MAILER A
+# iSPACE MAILER 
 This is a mailer created for iSPACE using HTML and CSS.
 
 The internal CSS was converted to inline CSS using the converter on Putsmail (https://putsmail.com/).
